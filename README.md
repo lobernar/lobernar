@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lobernar!
 - 👀 I’m interested in new technologies as well as sports.
-- 🌱 I’m currently doing my master's degree in computer science at ULB (Brussels).
+- 🌱 I have a Master's degree in Computer Science obtained at ULB (Brussels).
 - 💞️ I’m looking to collaborate on any project I find interesting or any project that will teach me something new.
 - 📫 How to reach me: loic.bernard1@outlook.com
 
