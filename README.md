@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @lobernar!
-- 👀 I’m interested in new technologies as well as sports.
-- 🌱 I recently graduated from ULB (Brussels) and obtained a Master's degree in Computer Science.
-- 💞️ I’m looking to collaborate on any project I find interesting or any project that will teach me something new.
-- 📫 How to reach me: loic.bernard1@outlook.com
+# Hi, I'm Loïc 👋
 
-<!---
-lobernar/lobernar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a recent Computer Science Master's graduate from Université Libre de Bruxelles (ULB), passionate about software development.  
+I'm currently looking for opportunities as a **software developer**. Feel free to explore my portfolio and get in touch!
+
+## GitHub Stats
+
+<img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lobernar&hide=contribs,prs,issues&show_icons=true&theme=merko&rank_icon=github"/>
+<img alt="top langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobernar&size_weight=0.5&count_weight=0.5&langs_count=7&layout=compact&theme=merko"/>
