@@ -1,7 +1,10 @@
 # Hi, I'm Loïc 👋
 
 I'm a recent Computer Science Master's graduate from Université Libre de Bruxelles (ULB), passionate about software development.  
-I'm currently looking for opportunities as a **software developer**. Feel free to explore my portfolio and get in touch!
+I'm currently looking for opportunities as a **software developer**.
+Here, you can explore some of my university projects as well as personal projects I built to learn new languages, frameworks, and concepts.
+
+Feel free to explore my portfolio and get in touch!
 
 ## GitHub Stats
 
